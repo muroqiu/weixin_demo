@@ -26,3 +26,8 @@
   box-sizing: border-box;
   padding: 0 30rpx;
 }
+
+.kind-list-img {
+  width: 60rpx;
+  height: 60rpx;
+}

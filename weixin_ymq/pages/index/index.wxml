@@ -1,12 +1,17 @@
 <!--index.wxml-->
 <view class="container">
+  <image class="image" src="../../image/muroqiu.jpeg" mode='aspectFit' />
   <view class="block">
-    <label class="label"> 联系人：慕容秋 </label>
+    <image class="kind-list-img" src="../../image/api.png" mode='aspectFit'></image>
+    <label class="label">联系方式：截屏后用微信扫一扫添加</label>
   </view>
   <view class="block">
-    <label class="label"> 固定周天晚上7~10点 </label>
+    <image class="kind-list-img" src="../../image/feedback.png" mode='aspectFit'></image>
+    <label class="label">时间：周天晚上7~10点 </label>
   </view>
   <view class="block" bindtap="onClick_Map">
-      <label class="label"> AONE 羽毛球馆 </label>
+    <image class="kind-list-img" src="../../image/map.png" mode='aspectFit'></image>
+    <label class="label">地点：AONE 羽毛球馆 </label>
+    <image class="kind-list-img" src="../../image/more.png" mode='aspectFit'></image>
   </view>
 </view>
