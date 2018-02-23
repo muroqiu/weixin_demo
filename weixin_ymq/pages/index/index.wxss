@@ -19,7 +19,7 @@
   align-items: center;
   justify-content: space-between;
   box-sizing: border-box;
-  color: #0F0F0F;
+  color: #000;
   background-color: #F8F8F8;
   margin: 40rpx 0rpx 0rpx 0rpx;
   padding-left: 15rpx;

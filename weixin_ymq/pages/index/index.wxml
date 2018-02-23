@@ -2,12 +2,12 @@
 <view class="container">
   <image class="image" src="../../image/muroqiu.jpeg" mode='aspectFit' />
   <view class="block">
-    <image class="kind-list-img" src="../../image/api.png" mode='aspectFit'></image>
-    <label class="label">联系方式：截屏后用微信扫一扫添加</label>
+    <image class="kind-list-img" src="../../image/contact.png" mode='aspectFit'></image>
+    <label class="label">微信：截屏后用微信扫一扫添加</label>
   </view>
   <view class="block">
-    <image class="kind-list-img" src="../../image/feedback.png" mode='aspectFit'></image>
-    <label class="label">时间：周天晚上7~10点 </label>
+    <image class="kind-list-img" src="../../image/time.png" mode='aspectFit'></image>
+    <label class="label">时间：周天和周四晚上7~10点 </label>
   </view>
   <view class="block" bindtap="onClick_Map">
     <image class="kind-list-img" src="../../image/map.png" mode='aspectFit'></image>
