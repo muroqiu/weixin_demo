@@ -50,5 +50,14 @@ Page({
       userInfo: e.detail.userInfo,
       hasUserInfo: true
     })
+  },
+  onClick_Map: function (e) {
+    wx.openLocation({
+      latitude: 26.10461,
+      longitude: 119.28485,
+      scale: 14,
+      name: 'AONE运动公园羽毛球场',
+      address: '鼓楼区屏西路110号'
+    })
   }
 })
